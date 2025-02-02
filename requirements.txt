@@ -1,0 +1,13 @@
+diffusers
+torch
+torchvision
+transformers
+accelerate
+safetensors
+einops
+onnxruntime-gpu
+spaces
+omegaconf
+peft
+huggingface-hub
+insightface==0.7.3
